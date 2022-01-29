@@ -83,7 +83,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Grzegorz Kulesza</title>
       <h2 style={headingStyles}>
-        Hey 👋, I'm Grzegorz.</h2>
+        Hey 👋 I'm Grzegorz.</h2>
         <p>I'm a designer, husband and father of two daughters. I'm currently building <a href="https://www.appjobs.work">a mobile app at Appjobs</a>.
       </p>
       <p>If you want to reach out, you can find me on <a href="https://twitter.com/theg_kulesza">Twitter.</a></p>
